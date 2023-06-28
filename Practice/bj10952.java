@@ -5,6 +5,8 @@ public class bj10952{
 
         Scanner sc = new Scanner(System.in);
         
+        System.out.println("A B를 입력하세요 (0 0을 입력하면 종료)");
+        
         while(true) {
             int A = sc.nextInt();
             int B = sc.nextInt();
